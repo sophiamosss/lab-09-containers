@@ -1,0 +1,128 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "169.254.37.23",
+      "books": 1
+    },
+    {
+      "host": "201054f55808",
+      "books": 1
+    },
+    {
+      "host": "9c9b05efa5ce",
+      "books": 3
+    },
+    {
+      "host": "Sophies-MacBook-Air-2.local",
+      "books": 3
+    },
+    {
+      "host": "aa71d504ab9d",
+      "books": 101
+    },
+    {
+      "host": "ip-172-31-30-227",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 101
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-sophiamosss-ds2022",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-30-227",
+          "at": "2026-11-03 18:33:17.380000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 16:59:58.855000",
+          "job": "22816826_101"
+        },
+        {
+          "host": "aa71d504ab9d",
+          "at": "2026-11-16 21:37:46.312000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304,
+      "llm_analysis": {
+        "summary": "- Setting: Set in Spain, particularly around the 16th century.\n- Main Characters: Don Quixote, a mad knight, and Sancho Panza, his loyal squire.\n- Plot Summary: Don Quixote, inspired by medieval chivalry stories, decides to ride off as a knight and falls in love with Dulcinea, a woman he believes to be a princess. However, he encounters numerous comedic and tragic misadventures, including battles with windmills, enchanted objects, and misunderstandings.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 16:59:58.855000"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-sophiamosss-ds2022",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-30-227",
+          "at": "2026-11-03 18:33:17.023000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 16:59:57.538000",
+          "job": "22816826_100"
+        },
+        {
+          "host": "aa71d504ab9d",
+          "at": "2026-11-16 21:37:43.677000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490,
+      "llm_analysis": {
+        "summary": "Jerry Cruncher, a young messenger at Tellson's Bank, receives a mysterious package containing a letter from Mr. Jarvis Lorry, a lawyer. Intrigued, Jerry decides to investigate.",
+        "genre": "mystery",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 16:59:57.538000"
+      }
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-sophiamosss-ds2022",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-30-227",
+          "at": "2026-11-03 18:33:16.806000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 16:59:58.373000",
+          "job": "22816826_99"
+        },
+        {
+          "host": "aa71d504ab9d",
+          "at": "2026-11-16 21:37:41.299000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231,
+      "llm_analysis": {
+        "summary": "Mr Arthur Clennam arrives in London from Marseilles, where he witnessed a tragic event involving a ship sinking. He meets his estranged mother, Mrs Clennam, who is confined to her room due to health issues. During their reunion, Mr Clennam learns about his father's death and the financial troubles of the family. Mrs Clennam reveals that her husband, Jeremiah Flintwinch, proposes marriage to her despite their shared past.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 16:59:58.373000"
+      }
+    }
+  ]
+}
